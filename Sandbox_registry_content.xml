@@ -1,0 +1,19 @@
+<Registry_Keys>
+	<!-- How to use it ? -->
+	<!-- <Registry_Key> -->
+		<!-- <Reg_Path>Registry path without HKLM or HKCU</Reg_Path> -->
+		<!-- <Reg_PropertyType>String or DWord</Reg_PropertyType> -->
+		<!-- <Reg_Property>Property</Reg_Property>				 -->
+		<!-- <Reg_Value>Value of the property</Reg_Value>				 -->
+	<!-- </Registry_Key> -->
+	
+	<!-- Example -->
+	<!-- <Registry_Key> -->
+		<!-- <Reg_Path>Control Panel\Desktop</Reg_Path> -->
+		<!-- <Reg_PropertyType>String</Reg_PropertyType> -->
+		<!-- <Reg_Property>WallPaper</Reg_Property>				 -->
+		<!-- <Reg_Value>C:\Windows\Web\Wallpaper\metsys.jpg</Reg_Value>				 -->
+	<!-- </Registry_Key> -->
+
+</Registry_Keys>
+
